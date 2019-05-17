@@ -26,3 +26,4 @@ The column’s height and colors, and the container’s height and width, are al
 
 **Note:** You might have to resize the browser to see the entire painting.
 
+**Hosted** on [netlify](https://clever-minsky-0937dd.netlify.com/)
